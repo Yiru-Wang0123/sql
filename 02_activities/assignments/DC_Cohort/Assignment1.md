@@ -217,6 +217,5 @@ Anyway, my name has just stayed in this Aa Cc format. I have been asked multiple
 
 I've tried multiple times to change my name on the app. However, since my account is "verified", it does not seem like I can change it. Also, my account is linked to my phone number, which means I cannot just create a new account, because there is no way I can afford a second mobile bill just for the sake of this Uber account. 
 
-The system assumes that a name in the format of "Aa Bb Cc" always has a "Bb" as a middle name, which fits the first, middle, last convention common in English-speaking countries, but not naming traditions like mine. That's also what Uber has decided, but I'm paying the cost.  
-
+The system assumes that a name in the format of "Aa Bb Cc" always has a "Bb" as a middle name, which fits the first, middle, last convention common in English-speaking countries, but not naming traditions like mine. That's also what Uber has decided, but I'm paying the inconvenience. 
 ```
