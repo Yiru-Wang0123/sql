@@ -209,5 +209,13 @@ Consider, for example, concepts of fariness, inequality, social structures, marg
 
 
 ```
-Your thoughts...
+Uber has decided that no space is allowed in my first name. Whatever comes after the space is the middle name. So my name is in the style of Aa Bb Cc. Both Aa and Bb are my first name, including that space, and Cc is my last name, which is very common and standard in my culture. I am not sure if it is because the stupid young me accidentally registered myself as an "Uber Walker" the first time I downloaded and tried to use this app. I was definitely wondering why there were so many steps, and why I needed to take a photo of my driver's licence to take an Uber, while the whole point of me taking an Uber is I cannot drive (haven't gotten my G2 at that point).
+
+Sometimes I think, if I did not accidentally sign up as an "Uber Walker/Driver", I might not have had to upload my driver's licence for it to scan, and for it to see that on my legal document, my name is in the format of "Aa Bb Cc". Whenever I can fill the name part myself, I just type it as "Aabb Cc", which is my "halfway solution", a much smaller version of the fake marriage certificates that, according to the article, single mothers are reportedly asked for.
+
+Anyway, my name has just stayed in this Aa Cc format. I have been asked multiple times when I take the Uber if my name is truly one syllable only. 
+
+I've tried multiple times to change my name on the app. However, since my account is "verified", it does not seem like I can change it. Also, my account is linked to my phone number, which means I cannot just create a new account, because there is no way I can afford a second mobile bill just for the sake of this Uber account. 
+
+The system assumes that a name in the format of "Aa Bb Cc" always has a "Bb" as a middle name, which fits the first, middle, last convention common in English-speaking countries, but not naming traditions like mine. That's also what Uber has decided, but I'm paying the inconvenience. 
 ```
