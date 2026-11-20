@@ -14,7 +14,7 @@
     * Open a private window in your browser. Copy and paste the link to your pull request into the address bar. Make sure you can see your pull request properly. This helps the technical facilitator and learning support staff review your submission easily.
 
 Checklist:
-- [ ] 🚨🚨🚨 After forking, open the **Actions** tab in your own SQL repository. If prompted, click **I understand my workflows, go ahead and enable them** before opening your assignment pull request. This enables automatic SQL feedback on your pull request.
+- [x] 🚨🚨🚨 After forking, open the **Actions** tab in your own SQL repository. If prompted, click **I understand my workflows, go ahead and enable them** before opening your assignment pull request. This enables automatic SQL feedback on your pull request.
 - [ ] Create a branch called `assignment-two`.
 - [ ] Ensure that the repository is public.
 - [ ] Review [the PR description guidelines](https://github.com/UofT-DSI/onboarding/blob/main/onboarding_documents/submissions.md#guidelines-for-pull-request-descriptions) and adhere to them.
@@ -57,7 +57,7 @@ The store wants to keep customer addresses. Propose two architectures for the CU
 **HINT:** search type 1 vs type 2 slowly changing dimensions. 
 
 ```
-Your answer...
+Type 1 overwrites changes; Type 2 retains changes
 ```
 
 ***
@@ -193,5 +193,5 @@ Consider, for example, concepts of labour, bias, LLM proliferation, moderating c
 
 
 ```
-Your thoughts...
+I found two main ethical issues in this story. First, the labourers behind these datasets are underpaid and unrecognized. ImageNet’s images were labelled by Mechanical Turk workers paid only cents per task. Because their work was invisible, nobody documented who did the labelling or under what conditions, so users have no way to be aware of the biases the dataset may carry. For example, whether a person gets labelled “beautiful” can depend on the cultural background of the labeller who saw the photo. Second, some categories should never have existed in these datasets at all. This is mostly inherited bias combined with a failure to audit by the leading team. The categories were inherited from WordNet, a linguistic dictionary, rather than invented by Li’s team. Some terms, such as “loser” or “orphan,” make sense in a dictionary but are not appropriate as labels for photos, no matter who the labellers are. As ImageNet Roulette showed, applying these words to real faces produced results that were offensive and unfair.
 ```
